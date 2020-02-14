@@ -1,4 +1,5 @@
 ### interface default method
+----
 
 ```java
 public interface A {
