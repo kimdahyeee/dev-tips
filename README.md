@@ -9,3 +9,4 @@
 - [fork한 repository에서 upstream으로 push하기](./GIT-fork한%20repository에서%20upstream%20설정하여%20push하기.md)
 - [이미 생성한 project를 github에 올리기](./GIT-이미%20생성한%20project를%20github에%20올리기.md)
 - [파일 변경 사항 diff뜨기](./GIT-brach%20diff.md)
+- [add 취소하기](./GIT-add%20취소하기.md)
