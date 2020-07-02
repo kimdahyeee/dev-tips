@@ -11,6 +11,7 @@
 - [파일 변경 사항 diff뜨기](posts/GIT-brach%20diff.md)
 - [add 취소하기](posts/GIT-add%20취소하기.md)
 - [commit 취소하기](posts/GIT-commit%20취소하기.md)
+- [commit 수정하기 (작성중)](https://backlog.com/git-tutorial/kr/stepup/stepup7_6.html)
 
 #### IntelliJ
 
