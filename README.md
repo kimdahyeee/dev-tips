@@ -12,6 +12,7 @@
 - [add 취소하기](posts/GIT-add%20취소하기.md)
 - [commit 취소하기](posts/GIT-commit%20취소하기.md)
 - [commit 수정하기 (작성중)](https://backlog.com/git-tutorial/kr/stepup/stepup7_6.html)
+- [remote 브랜치 동기화](posts/GIT-리모트%20브랜치%20참조%20업데이트.md)
 
 #### IntelliJ
 
